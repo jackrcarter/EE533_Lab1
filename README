@@ -1,0 +1,2 @@
+The "original" codes refer to the code downloaded directly from the course page, before modifications and corrections.
+The "client" and "server" files refer to the client and server codes after allowing persistence and fixing the zombie problem, but before switching to a datagram socket.
